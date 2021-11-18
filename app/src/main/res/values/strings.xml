@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">S05 Volunteer</string>
+    <string name="upcoming_opportunities">Upcoming Opportunities</string>
+    <string name="no_upcoming">Looks like we\'re all out of new opportunities. Check back soon!</string>
+    <string name="registered_opportunities">Registered Opportunities</string>
+    <string name="no_registered">Looks like you haven\'t signed up for any opportunities yet.</string>
+    <string name="view_details">View Details</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="registered">Registered</string>
+    <string name="register">Register</string>
+    <string name="cancel_registration">Cancel Registration</string>
+    <string name="disclaimer">This information will be sent to the organizer.</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="additional_comments">Additional Comments...</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="input_warning">Please fill in all fields correctly.</string>
+    <string name="exit_warning">If you exit now, you will lose your progress.</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="cancel_warning">This action will notify the organizer.</string>
+    <string name="application_received">Application Received</string>
+    <string name="confirmation_blurb">Your application is now under review. The organizer will contact you soon.</string>
+    <string name="done">Done</string>
+</resources>
