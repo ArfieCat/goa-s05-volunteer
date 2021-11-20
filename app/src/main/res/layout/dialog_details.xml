@@ -220,7 +220,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:background="@color/grey"
-                                android:text="@string/cancel"
+                                android:text="@string/back"
                                 android:textColor="@color/white"
                                 android:textSize="12sp" />
 
