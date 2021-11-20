@@ -12,6 +12,7 @@ import android.widget.TextView;
 // Generates dialogs so it doesn't clog the Activities
 // Apparently our design has the most complex user flow ever with 6 different dialogs that chain into each other
 // Thanks Aki
+// Haha ur welcome :)
 public final class DialogManager {
     Context context;
     ClickListener clickListener;

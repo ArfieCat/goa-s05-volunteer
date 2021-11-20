@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/drawable/baseline_close_24.xml" value="0.1890625" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/drawable/baseline_place_24.xml" value="0.1890625" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1890625" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/drawable/outline_alternate_email_24.xml" value="0.1890625" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/layout/activity_main.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/layout/activity_registered.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/layout/dialog_confirmation.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/layout/dialog_details.xml" value="0.1" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/layout/dialog_register.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/layout/dialog_warning.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/akixu/OneDrive/Desktop/Documents/GitHub/goa-s05-volunteer/app/src/main/res/layout/item_opportunity.xml" value="0.17291666666666666" />
         <entry key="..\:/Users/arthu/OneDrive/Documents/AndroidStudio/S05Volunteer/app/src/main/res/drawable/baseline_close_24.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/arthu/OneDrive/Documents/AndroidStudio/S05Volunteer/app/src/main/res/drawable/baseline_place_24.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/arthu/OneDrive/Documents/AndroidStudio/S05Volunteer/app/src/main/res/drawable/outline_alternate_email_24.xml" value="0.26614583333333336" />
